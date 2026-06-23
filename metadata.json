@@ -1,0 +1,9 @@
+{
+  "name": "SwasthyaMitra",
+  "description": "SwasthyaMitra is a multilingual digital healthcare assistant for rural communities. It features voice input and text-to-speech, AI image-based symptom detection, a vaccination tracker, localized outbreak predictions, an emergency alert system, and a dedicated health worker panel.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
